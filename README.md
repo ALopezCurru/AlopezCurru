@@ -9,6 +9,8 @@ I’m motivated by continuous learning, career growth, and meaningful impact, an
 - - 🔭 I’m currently working on my **JavaScript Course**
 <h3 align="center">Connect with me:</h3>
 <div align="center">
+  [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lauro_brant-1/)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brantlauro/)
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
