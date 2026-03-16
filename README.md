@@ -10,3 +10,8 @@ I’m motivated by continuous learning, career growth, and meaningful impact, an
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 </div>
+
+<h3 align="center">Languages and Tools:</h3>
+<div>
+  
+</div>
