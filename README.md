@@ -5,4 +5,4 @@ I work best in environments where I can learn by doing, innovate, and help other
 
 I’m motivated by continuous learning, career growth, and meaningful impact, and I value creativity, performance, structure, and work-life balance.</h3>
 
-- I'm currently learning **JavaScript, CSS and HTML 5**
+- :notebook_with_decorative_cover: I'm currently learning **JavaScript, CSS and HTML 5**
