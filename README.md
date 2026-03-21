@@ -1,7 +1,7 @@
 <h1 align="center">Hi :bear:, I'm Alex</h1>
 <h3 align="center">A RealTime analyst</h3>
 
-- 🌱 I’m currently learning **HTML,JavaScript**
+- 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me **alexlopez.curru@gmail.com**
 
